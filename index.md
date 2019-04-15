@@ -26,6 +26,9 @@ First we should have a good train system to transport massive amounts of people,
 ![boring_car](files/boring_car.jpg "boring_car")
 ![boring_company](files/boring_company.png "boring_company")
 
+For short distances around the city, a large asphalt road with separations between the fastest and the slowest vehicles and pedestrians, or continuous separation from slow to fast. (From center to the sides: Lanes without speed limit, vehicle lanes, electric bike/scooter/unicycle/solowheel lanes, slower bike/scooter/skateboard/people-running lanes, then space for pedestrians, and then benches, WC and some services).
+
+
 
 ## Transportation of resources
 ## Living environment
