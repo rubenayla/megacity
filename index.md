@@ -4,8 +4,8 @@ I think that most people want services nearby, want the places where they work c
 As a business you don't want to transport your products long distances. As an individual, in order to be able to trade products you would like to have as many people as possible near you. It's more efficient to share the resources instead of building everything from scratch now and again. It's more efficient to have a road, a train, or a scooter sharing company if a lot of people will use it.
 
 We are [7.7 billion people](http://www.worldometers.info/world-population/), and the earth shouldn't be just for housing one mediocre city after another one. I think we should plan a big gorgeous city, choose a good place, and build it, rather than expanding chaotically our current cities.
-# How to do it
-## Problems
+
+# How to do it? Main problems
 * Resources (water, electricity (and its many sources), internet)
 * Transportation
 * Living environment
@@ -14,7 +14,7 @@ We are [7.7 billion people](http://www.worldometers.info/world-population/), and
 * Illumination with sunlight of all buildings
 
 
-### Resources
+## Resources
 World’s more wasteful megacity, NY.
 https://motherboard.vice.com/en_us/article/kbz59z/the-worlds-most-wasteful-megacity
 ...
