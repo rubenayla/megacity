@@ -32,14 +32,14 @@ For short distances around the city, a large asphalt road with separations betwe
 
 The road is clearly separated in two directions, with the fastest vehicles near the center of the road and the slowest at the sides, connected with the surroundings. With this disposition is easy to enter a lane and go to the fast part of it, accelerating while going left, but is more slow to change of direction. The logic is that you won’t usually want to change of direction, and if you do, you will have to slow down first, so this shouldn’t be a problem. This makes the destinations accessible easily to everyone, independently of their speed. 
 
-![]( "")
-![]( "")
-![]( "")
+![vehicle1](files/vehicle1.jpg "vehicle1")
+![vehicle2](files/vehicle2.jpg "vehicle2")
 
 If the road has large vehicles (trucks for transporting products), those vehicles would be completely separated from the rest of the lanes, near the center of the road, and would have vertical parking slots with supercharging built-in, places to stop temporarily near the city, and underground parking and washing/charging/repairing services. The changes of direction formed by tunnels, bridges, or if there isn’t other option, crosswalk that allows to change direction to all vehicles (for cars). Few large roads. High skyscrapers and parks/etc. separating them.
 
-![]( "")
-![]( "")
+![vehicle3](files/vehicle3.jpg "vehicle3")
+![vehicle4](files/vehicle4.jpg "vehicle4")
+![vehicle5](files/vehicle5.jpg "vehicle5")
 
 Could we use covered lanes? https://en.wikipedia.org/wiki/SkyCycle_(proposed_transport_project)
 
