@@ -39,7 +39,7 @@ If the road has large vehicles (trucks for transporting products), those vehicle
 
 ![vehicle3](files/vehicle3.jpg "vehicle3")
 ![vehicle4](files/vehicle4.jpg "vehicle4")
-![vehicle5](files/vehicle5.jpg "vehicle5")
+![vehicle5](files/vehicle5.png "vehicle5")
 
 Could we use covered lanes? https://en.wikipedia.org/wiki/SkyCycle_(proposed_transport_project)
 
