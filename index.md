@@ -43,6 +43,10 @@ If the road has large vehicles (trucks for transporting products), those vehicle
 
 Could we use covered lanes? https://en.wikipedia.org/wiki/SkyCycle_(proposed_transport_project)
 
+------------------------
+Que la megaciudad tenga un sistema de transporte público con grandes trenes, capaces de transportar a la totalidad de la población, aunque sea de forma incómoda. Cuando lo usa poca gente, que sea un medio de transporte muy cómodo y donde se pueda aprovechar el tiempo. La mayoría de los transportes en bicis/patinetes/monopatines/uniciclos eléctricos a través de carriles en las vías de la ciudad que ya dibujé.
+También la posibilidad de crear tubos donde se aloje la calzada para bicis/patinetes/monopatines/uniciclos, aislada del tiempo exterior. Así la calzada y los vehículos de degradarían menos, y sería cómodo viajar en vehículos menores que nosotros aunque esté lloviendo.
+Cada tubo tendría un único sentido, y posiblemente estaría a una inclinación constante, para no tener que consumir energía y poder utilizar vehículos sin motor o no gastar la batería en los que sí tienen motor. sobre/entre los edificios, o bajo tierra. Al viajar todos en el mismo sentido el rozamiento del aire debería ser menor ya que todas estas personas transportándose acabarían creando algo de viento en el interior. También túneles donde viajen coches eléctricos/autónomos cuyo servicio pueda ser alquilado, o con coches privados. Obviamente aparcamiento para los coches privados bajo tierra, con las salidas para sus usuarios junto a las salidas de los trenes convencionales, también junto a los parking de bicis/patinetes/monopatines/uniciclos privados y alquilados.
 
 
 ## Transportation of resources
