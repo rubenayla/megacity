@@ -30,7 +30,7 @@ For short distances around the city, a large asphalt road with separations betwe
 
 ![road design](files/road_design.jpg "road design")
 
-The road is clearly separated in two directions, with the fastest vehicles near the center of the road and the slowest at the sides, connected with the surroundings. With this disposition is easy to enter a lane and go to the fast part of it, accelerating while going left, but is more slow to change the direction. The logic is that you won’t usually want to change of direction, and if you do, you will have to slow down first, so this shouldn’t be a problem. This makes the destinations accessible easily to everyone, independently of their speed. 
+The road is clearly separated in two directions, with the fastest vehicles near the center of the road and the slowest at the sides, connected with the surroundings. With this disposition is easy to enter a lane and go to the fast part of it, accelerating while going left, but is more slow to change of direction. The logic is that you won’t usually want to change of direction, and if you do, you will have to slow down first, so this shouldn’t be a problem. This makes the destinations accessible easily to everyone, independently of their speed. 
 
 ![]( "")
 ![]( "")
