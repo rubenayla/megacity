@@ -28,9 +28,68 @@ First we should have a good train system to transport massive amounts of people,
 
 For short distances around the city, a large asphalt road with separations between the fastest and the slowest vehicles and pedestrians, or continuous separation from slow to fast. (From center to the sides: Lanes without speed limit, vehicle lanes, electric bike/scooter/unicycle/solowheel lanes, slower bike/scooter/skateboard/people-running lanes, then space for pedestrians, and then benches, WC and some services).
 
+![road design](files/road_design.jpg "road design")
+
+The road is clearly separated in two directions, with the fastest vehicles near the center of the road and the slowest at the sides, connected with the surroundings. With this disposition is easy to enter a lane and go to the fast part of it, accelerating while going left, but is more slow to change the direction. The logic is that you won’t usually want to change of direction, and if you do, you will have to slow down first, so this shouldn’t be a problem. This makes the destinations accessible easily to everyone, independently of their speed. 
+
+![]( "")
+![]( "")
+![]( "")
+
+If the road has large vehicles (trucks for transporting products), those vehicles would be completely separated from the rest of the lanes, near the center of the road, and would have vertical parking slots with supercharging built-in, places to stop temporarily near the city, and underground parking and washing/charging/repairing services. The changes of direction formed by tunnels, bridges, or if there isn’t other option, crosswalk that allows to change direction to all vehicles (for cars). Few large roads. High skyscrapers and parks/etc. separating them.
+
+![]( "")
+![]( "")
+
+Could we use covered lanes? https://en.wikipedia.org/wiki/SkyCycle_(proposed_transport_project)
+
 
 
 ## Transportation of resources
 ## Living environment
+Buildings with plants: https://www.dezeen.com/2017/06/30/10-plant-covered-buildings-point-greener-future-living-walls-roundup/
+Techniques for planting in the buildings, so that we can grow plants and gather them (if we didn’t do that we wouldn’t be absorbing CO2) letting them grow more and more. We can absorb pollution, CO2, NOx?, Increase humidity and make a healthier psychological environment for people. Combine glass (let all the light pass into the building), with plants and solar panels.
+
+---- idea malla metálica con una cuchilla para cortar periódicamente las plantas hidro-aeropónicas
+
 ## Data about megacities
+### The biggest current megacities
+* Tokio
+* Jakarta
+* Delhi
+* Manila	
+* New York
+#### The biggest future megacities (predicted)
+* Chicago
+* Bogotá
+* Luanda
+* Chennai
+* Baghdad
+* Dar es Salaam
+#### Tokio
+Japan Capital 36 million inhabitants
+#### Jakarta
+Indonesia capital 30 million inhabitants
+#### Delhi
+India capital 25 million inhabitants
+#### Manila
+Philippines Capital 24 million inhabitants.
+#### New York City
+20 million inhabitants.
+
 # Bibliography
+* https://www.visualcapitalist.com/mapping-the-worlds-new-megacities-in-2030/
+* https://www.fastcompany.com/3037697/a-plant-covered-car-free-design-for-the-megacity-of-the-future
+* http://global.ctbuh.org/resources/papers/download/3287-megacities-design-challenges-and-responses.pdf
+* http://webs.schule.at/website/Megacities/problems_en.htm
+* https://www.forbes.com/sites/megacities/2011/04/04/the-problem-with-megacities/
+* https://flipboard.com/@contextlink/megacities-gam0sv8vz
+* https://inhabitat.com/bosco-verticale-in-milan-will-be-the-worlds-first-vertical-forest/
+* http://www.igreenspot.com/the-green-building-of-national-life-insurance-by-henry-browne-and-borja-huidobro/
+* https://flipboard.com/@contextlink/megacities-gam0sv8vz
+* https://motherboard.vice.com/en_us/article/kbz59z/the-worlds-most-wasteful-megacity
+* https://www.fastcompany.com/90234563/were-designing-bike-lanes-wrong
+* https://www.chinadialogue.net/article/show/single/en/8889-Lessons-for-a-cycling-megacity-
+* https://www.bikeradar.com/commuting/news/article/could-overhead-cycle-lanes-be-future-of-london-commuting-35369/
+* https://en.wikipedia.org/wiki/SkyCycle_(proposed_transport_project)
+* https://lloydalter.typepad.com/lloydalter/2009/03/building-a-better-bike-lane.html
