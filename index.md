@@ -9,7 +9,7 @@ We are [7.7 billion people](http://www.worldometers.info/world-population/), and
 * Resources (water, electricity (and its many sources), internet)
 * Transportation
 * Living environment
-* Emergencies (Problems with resources or 	transportation)
+	 Emergencies (Problems with resources or 	transportation)
 * Services (Firefighters, police...)
 * Illumination with sunlight of all buildings
 
@@ -23,7 +23,6 @@ https://motherboard.vice.com/en_us/article/kbz59z/the-worlds-most-wasteful-megac
 ## Transportation of people
 First we should have a good train system to transport massive amounts of people, and we could tunnel lanes for cars and train rails. The Boring Company is achieving to bore at a much lower cost than traditional companies, letting us grow our cities in the z direction, but not only upwards. The cars/buses/autonomous taxis would go underground. The outside roads would be left for bikes, pedestrians, etc.
 
-![boring_car](files/boring_car.jpg "boring_car")
 ![boring_company](files/boring_company.png "boring_company")
 
 For short distances around the city, a large asphalt road with separations between the fastest and the slowest vehicles and pedestrians, or continuous separation from slow to fast. (From center to the sides: Lanes without speed limit, vehicle lanes, electric bike/scooter/unicycle/solowheel lanes, slower bike/scooter/skateboard/people-running lanes, then space for pedestrians, and then benches, WC and some services).
@@ -61,7 +60,7 @@ Techniques for planting in the buildings, so that we can grow plants and gather 
 * Tokio
 * Jakarta
 * Delhi
-* Manila	
+	 Manila	
 * New York
 #### The biggest future megacities (predicted)
 * Chicago
