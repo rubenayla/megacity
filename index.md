@@ -15,9 +15,14 @@ We are [7.7 billion people](http://www.worldometers.info/world-population/), and
 
 
 ### Resources
+World’s more wasteful megacity, NY.
+https://motherboard.vice.com/en_us/article/kbz59z/the-worlds-most-wasteful-megacity
+...
 ### Water
 ### Electricity
 ## Transportation of people
+First we should have a good train system to transport massive amounts of people, and we could tunnel lanes for cars and train rails. The Boring Company is achieving to bore at a much lower cost than traditional companies, letting us grow our cities in the z direction, but not only upwards. The cars/buses/autonomous taxis would go underground. The outside roads would be left for bikes, pedestrians, etc.
+
 ## Transportation of resources
 ## Living environment
 ## Data about megacities
