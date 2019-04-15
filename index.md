@@ -6,7 +6,15 @@ As a business you don't want to transport your products long distances. As an in
 We are [7.7 billion people](http://www.worldometers.info/world-population/), and the earth shouldn't be just for housing one mediocre city after another one. I think we should plan a big gorgeous city, choose a good place, and build it, rather than expanding chaotically our current cities.
 # How to do it
 ## Problems
-## Resources
+* Resources (water, electricity (and its many sources), internet)
+* Transportation
+* Living environment
+* Emergencies (Problems with resources or 	transportation)
+* Services (Firefighters, police...)
+* Illumination with sunlight of all buildings
+
+
+### Resources
 ### Water
 ### Electricity
 ## Transportation of people
